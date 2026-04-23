@@ -1,4 +1,13 @@
 {
+  "beefeater-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.imigrantesbebidas.com.br/gin-beefeater-london-dry-750ml",
+        "affiliate_url": "https://www.imigrantesbebidas.com.br/gin-beefeater-london-dry-750ml"
+      }
+    ]
+  },
   "bombay-sapphire-london-dry-gin": {
     "links": [
       {
@@ -8,12 +17,12 @@
       }
     ]
   },
-  "beefeater-london-dry-gin": {
+  "the-botanist-islay-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.imigrantesbebidas.com.br/gin-beefeater-london-dry-750ml",
-        "affiliate_url": "https://www.imigrantesbebidas.com.br/gin-beefeater-london-dry-750ml"
+        "raw_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html",
+        "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
       }
     ]
   }
