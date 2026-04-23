@@ -26,6 +26,15 @@
       }
     ]
   },
+  "sipsmith-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.urban-drinks.com/sipsmith-london-dry-gin-07l-416-vol.html",
+        "affiliate_url": "https://www.urban-drinks.com/sipsmith-london-dry-gin-07l-416-vol.html"
+      }
+    ]
+  },
   "tanqueray-no-ten-gin": {
     "links": [
       {
@@ -44,12 +53,12 @@
       }
     ]
   },
-  "sipsmith-london-dry-gin": {
+  "monkey-47-schwarzwald-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.urban-drinks.com/sipsmith-london-dry-gin-07l-416-vol.html",
-        "affiliate_url": "https://www.urban-drinks.com/sipsmith-london-dry-gin-07l-416-vol.html"
+        "raw_url": "https://liquorgenie.in/product/monkey-47/",
+        "affiliate_url": "https://liquorgenie.in/product/monkey-47/"
       }
     ]
   }
