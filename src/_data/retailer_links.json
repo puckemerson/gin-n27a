@@ -7,5 +7,14 @@
         "affiliate_url": "https://www.urban-drinks.com/bombay-sapphire-london-dry-gin-10l-40-vol.html"
       }
     ]
+  },
+  "beefeater-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.imigrantesbebidas.com.br/gin-beefeater-london-dry-750ml",
+        "affiliate_url": "https://www.imigrantesbebidas.com.br/gin-beefeater-london-dry-750ml"
+      }
+    ]
   }
 }
