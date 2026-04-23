@@ -26,6 +26,15 @@
       }
     ]
   },
+  "tanqueray-no-ten-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://prikeshop.lt/product/tanqueray-no-ten-0-7l-gin/",
+        "affiliate_url": "https://prikeshop.lt/product/tanqueray-no-ten-0-7l-gin/"
+      }
+    ]
+  },
   "the-botanist-islay-dry-gin": {
     "links": [
       {
@@ -35,12 +44,12 @@
       }
     ]
   },
-  "tanqueray-no-ten-gin": {
+  "sipsmith-london-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://prikeshop.lt/product/tanqueray-no-ten-0-7l-gin/",
-        "affiliate_url": "https://prikeshop.lt/product/tanqueray-no-ten-0-7l-gin/"
+        "raw_url": "https://www.urban-drinks.com/sipsmith-london-dry-gin-07l-416-vol.html",
+        "affiliate_url": "https://www.urban-drinks.com/sipsmith-london-dry-gin-07l-416-vol.html"
       }
     ]
   }
