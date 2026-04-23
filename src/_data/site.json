@@ -2,5 +2,10 @@
   "title": "Juniper & Tonic",
   "tagline": "Honest gin reviews for discerning drinkers seeking exceptional botanicals.",
   "category": "Gin",
-  "pathPrefix": "/gin-n27a/"
+  "pathPrefix": "/gin-n27a/",
+  "slug": "gin-n27a",
+  "url": "https://puckemerson.github.io",
+  "about": "This is an independent gin review site. Each review is a first-person take, grounded in research from across the web, with scoring categories chosen to fit the specific product.",
+  "analytics_snippet": "",
+  "ghUser": "puckemerson"
 }
