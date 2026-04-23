@@ -25,5 +25,14 @@
         "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
       }
     ]
+  },
+  "gordons-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://prikeshop.lt/product/gordons-london-dry-gin-1-l/",
+        "affiliate_url": "https://prikeshop.lt/product/gordons-london-dry-gin-1-l/"
+      }
+    ]
   }
 }
