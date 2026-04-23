@@ -35,6 +35,15 @@
       }
     ]
   },
+  "plymouth-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://homedeliverywine.com/products/plymouth-gin-700ml",
+        "affiliate_url": "https://homedeliverywine.com/products/plymouth-gin-700ml"
+      }
+    ]
+  },
   "sipsmith-london-dry-gin": {
     "links": [
       {
@@ -59,15 +68,6 @@
         "retailer": "generic",
         "raw_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html",
         "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
-      }
-    ]
-  },
-  "plymouth-gin": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://homedeliverywine.com/products/plymouth-gin-700ml",
-        "affiliate_url": "https://homedeliverywine.com/products/plymouth-gin-700ml"
       }
     ]
   }
