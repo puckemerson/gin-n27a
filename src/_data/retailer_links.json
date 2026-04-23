@@ -26,6 +26,15 @@
       }
     ]
   },
+  "monkey-47-schwarzwald-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://liquorgenie.in/product/monkey-47/",
+        "affiliate_url": "https://liquorgenie.in/product/monkey-47/"
+      }
+    ]
+  },
   "sipsmith-london-dry-gin": {
     "links": [
       {
@@ -53,12 +62,12 @@
       }
     ]
   },
-  "monkey-47-schwarzwald-dry-gin": {
+  "plymouth-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://liquorgenie.in/product/monkey-47/",
-        "affiliate_url": "https://liquorgenie.in/product/monkey-47/"
+        "raw_url": "https://homedeliverywine.com/products/plymouth-gin-700ml",
+        "affiliate_url": "https://homedeliverywine.com/products/plymouth-gin-700ml"
       }
     ]
   }
