@@ -70,5 +70,14 @@
         "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
       }
     ]
+  },
+  "roku-japanese-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://liquorloot.com/products/suntory-roku-japanese-gin-700ml",
+        "affiliate_url": "https://liquorloot.com/products/suntory-roku-japanese-gin-700ml"
+      }
+    ]
   }
 }
