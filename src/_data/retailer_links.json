@@ -44,6 +44,15 @@
       }
     ]
   },
+  "roku-japanese-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://liquorloot.com/products/suntory-roku-japanese-gin-700ml",
+        "affiliate_url": "https://liquorloot.com/products/suntory-roku-japanese-gin-700ml"
+      }
+    ]
+  },
   "sipsmith-london-dry-gin": {
     "links": [
       {
@@ -71,12 +80,12 @@
       }
     ]
   },
-  "roku-japanese-gin": {
+  "gin-mare-mediterranean-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://liquorloot.com/products/suntory-roku-japanese-gin-700ml",
-        "affiliate_url": "https://liquorloot.com/products/suntory-roku-japanese-gin-700ml"
+        "raw_url": "https://valuecellars.com.au/shop/spirits/gin-mare-mediterranean-gin-2/",
+        "affiliate_url": "https://valuecellars.com.au/shop/spirits/gin-mare-mediterranean-gin-2/"
       }
     ]
   }
