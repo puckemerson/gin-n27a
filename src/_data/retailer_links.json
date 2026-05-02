@@ -17,6 +17,15 @@
       }
     ]
   },
+  "gin-mare-mediterranean-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://valuecellars.com.au/shop/spirits/gin-mare-mediterranean-gin-2/",
+        "affiliate_url": "https://valuecellars.com.au/shop/spirits/gin-mare-mediterranean-gin-2/"
+      }
+    ]
+  },
   "gordons-london-dry-gin": {
     "links": [
       {
@@ -80,12 +89,12 @@
       }
     ]
   },
-  "gin-mare-mediterranean-gin": {
+  "bombay-bramble-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://valuecellars.com.au/shop/spirits/gin-mare-mediterranean-gin-2/",
-        "affiliate_url": "https://valuecellars.com.au/shop/spirits/gin-mare-mediterranean-gin-2/"
+        "raw_url": "https://www.thewhiskyworld.com/bombay-bramble-blackberry-raspberry-gin-p7139",
+        "affiliate_url": "https://www.thewhiskyworld.com/bombay-bramble-blackberry-raspberry-gin-p7139"
       }
     ]
   }
