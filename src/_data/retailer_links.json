@@ -8,6 +8,15 @@
       }
     ]
   },
+  "bombay-bramble-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.thewhiskyworld.com/bombay-bramble-blackberry-raspberry-gin-p7139",
+        "affiliate_url": "https://www.thewhiskyworld.com/bombay-bramble-blackberry-raspberry-gin-p7139"
+      }
+    ]
+  },
   "bombay-sapphire-london-dry-gin": {
     "links": [
       {
@@ -89,12 +98,12 @@
       }
     ]
   },
-  "bombay-bramble-gin": {
+  "aviation-american-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.thewhiskyworld.com/bombay-bramble-blackberry-raspberry-gin-p7139",
-        "affiliate_url": "https://www.thewhiskyworld.com/bombay-bramble-blackberry-raspberry-gin-p7139"
+        "raw_url": "https://www.totalwine.com/spirits/gin/aviation-american-gin/p/101410750",
+        "affiliate_url": "https://www.totalwine.com/spirits/gin/aviation-american-gin/p/101410750"
       }
     ]
   }
