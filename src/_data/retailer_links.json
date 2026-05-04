@@ -1,4 +1,13 @@
 {
+  "aviation-american-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.totalwine.com/spirits/gin/aviation-american-gin/p/101410750",
+        "affiliate_url": "https://www.totalwine.com/spirits/gin/aviation-american-gin/p/101410750"
+      }
+    ]
+  },
   "beefeater-london-dry-gin": {
     "links": [
       {
@@ -98,12 +107,12 @@
       }
     ]
   },
-  "aviation-american-gin": {
+  "empress-1908-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.totalwine.com/spirits/gin/aviation-american-gin/p/101410750",
-        "affiliate_url": "https://www.totalwine.com/spirits/gin/aviation-american-gin/p/101410750"
+        "raw_url": "https://chipsliquor.com/products/empress-1908-gin",
+        "affiliate_url": "https://chipsliquor.com/products/empress-1908-gin"
       }
     ]
   }
