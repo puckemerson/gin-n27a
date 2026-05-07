@@ -35,6 +35,15 @@
       }
     ]
   },
+  "empress-1908-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://chipsliquor.com/products/empress-1908-gin",
+        "affiliate_url": "https://chipsliquor.com/products/empress-1908-gin"
+      }
+    ]
+  },
   "gin-mare-mediterranean-gin": {
     "links": [
       {
@@ -107,12 +116,12 @@
       }
     ]
   },
-  "empress-1908-gin": {
+  "nolets-silver-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://chipsliquor.com/products/empress-1908-gin",
-        "affiliate_url": "https://chipsliquor.com/products/empress-1908-gin"
+        "raw_url": "https://www.urban-drinks.de/nolets-silver-dry-gin-07l-476-vol.html",
+        "affiliate_url": "https://www.urban-drinks.de/nolets-silver-dry-gin-07l-476-vol.html"
       }
     ]
   }
