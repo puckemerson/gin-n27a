@@ -1,5 +1,54 @@
 [
   {
+    "slug": "gins-that-showcase-regional-botanicals",
+    "title": "Gins That Showcase Regional Botanicals",
+    "intro_markdown": "The best gins don't just follow the London Dry template—they root themselves in place. These bottles make geography matter, drawing on local flora to create distinctive profiles that taste unmistakably of where they're made. From Japanese sakura to Scottish heather, these gins prove that terroir applies to spirits just as much as wine.",
+    "outro_markdown": "Each of these gins offers a passport stamp in a glass, translating the botanicals of a specific region into something you can taste. They're worth seeking out when you want your gin to tell a story beyond juniper.",
+    "created_at": 1778451418288,
+    "items": [
+      {
+        "post_slug": "monkey-47-schwarzwald-dry-gin",
+        "rank": 1,
+        "blurb_markdown": "Forty-seven botanicals from Germany's Black Forest make this the most aggressive expression of regional terroir in gin. Spruce tips, lingonberries, and local herbs create a complexity that's unmistakably Schwarzwald, not just generically \"botanical.\""
+      },
+      {
+        "post_slug": "roku-japanese-gin",
+        "rank": 2,
+        "blurb_markdown": "Six distinctly Japanese botanicals—sakura flower, sakura leaf, yuzu peel, sencha tea, gyokuro tea, and sansho pepper—anchor this gin in a specific flavor vocabulary. The seasonal harvest approach means these aren't token additions but the structural backbone."
+      },
+      {
+        "post_slug": "the-botanist-islay-dry-gin",
+        "rank": 3,
+        "blurb_markdown": "Twenty-two hand-foraged Islay botanicals including heather, meadowsweet, and gorse create a gin that tastes like the Scottish island itself. Made at Bruichladdich distillery, it captures the maritime wildness of its home terrain."
+      },
+      {
+        "post_slug": "gin-mare-mediterranean-gin",
+        "rank": 4,
+        "blurb_markdown": "Arbequina olives, basil, rosemary, and thyme make this unmistakably Mediterranean—not just in marketing but in actual flavor. It tastes like the Spanish coast in a way that works best when you're actually thinking about that context."
+      },
+      {
+        "post_slug": "drumshanbo-gunpowder-irish-gin",
+        "rank": 5,
+        "blurb_markdown": "Gunpowder tea from China meets Irish terroir in an unusual fusion that actually works. The tea provides a distinctive backbone while local botanicals keep it anchored to its Drumshanbo origins."
+      },
+      {
+        "post_slug": "plymouth-gin",
+        "rank": 6,
+        "blurb_markdown": "The only gin with a protected geographical indication, made exclusively in Plymouth since 1793. Its slightly earthier, less citrus-forward profile reflects the original Plymouth style that predates London Dry dominance."
+      },
+      {
+        "post_slug": "nolets-silver-dry-gin",
+        "rank": 7,
+        "blurb_markdown": "Turkish rose, peach, and raspberry might sound like additions, but they're expressions of the Nolet family's Dutch distilling heritage. This tastes distinctly different from Anglo-centric gin templates."
+      },
+      {
+        "post_slug": "aviation-american-gin",
+        "rank": 8,
+        "blurb_markdown": "Lavender and cardamom push this toward a Pacific Northwest profile that diverges from European traditions. It's regionally American in its willingness to dial back juniper and foreground softer aromatics."
+      }
+    ]
+  },
+  {
     "slug": "gins-for-classic-martini-purists",
     "title": "Gins for Classic Martini Purists",
     "intro_markdown": "The martini doesn't forgive mediocrity. When you're building a drink with minimal dilution and no flavor cover, the gin has to carry the glass. These expressions lean traditional—juniper-led, clean, and structured—without the floral detours or cucumber theatrics that complicate a proper stirred martini. Whether you prefer yours bone-dry or with a whisper of vermouth, these bottles deliver the clarity and backbone the cocktail demands.",

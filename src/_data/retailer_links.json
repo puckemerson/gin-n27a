@@ -143,21 +143,21 @@
       }
     ]
   },
-  "the-botanist-islay-dry-gin": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html",
-        "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
-      }
-    ]
-  },
   "tanqueray-rangpur-gin": {
     "links": [
       {
         "retailer": "generic",
         "raw_url": "https://drinkland.co.nz/product/tanqueray-rangpur-limes-distilled-gin-700ml/",
         "affiliate_url": "https://drinkland.co.nz/product/tanqueray-rangpur-limes-distilled-gin-700ml/"
+      }
+    ]
+  },
+  "the-botanist-islay-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html",
+        "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
       }
     ]
   }
