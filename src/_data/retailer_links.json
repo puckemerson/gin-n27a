@@ -62,6 +62,15 @@
       }
     ]
   },
+  "hendricks-orbium-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816",
+        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816"
+      }
+    ]
+  },
   "monkey-47-schwarzwald-dry-gin": {
     "links": [
       {
@@ -125,12 +134,12 @@
       }
     ]
   },
-  "hendricks-orbium-gin": {
+  "drumshanbo-gunpowder-irish-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816",
-        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816"
+        "raw_url": "https://whiskypedia.com.ar/producto/drumshanbo-gunpowder-irish-gin-1000ml/",
+        "affiliate_url": "https://whiskypedia.com.ar/producto/drumshanbo-gunpowder-irish-gin-1000ml/"
       }
     ]
   }
