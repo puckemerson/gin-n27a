@@ -71,6 +71,15 @@
       }
     ]
   },
+  "hendricks-neptunia-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.giftsinternational.net/products/hendricks-neptunia-gin-70cl/12785",
+        "affiliate_url": "https://www.giftsinternational.net/products/hendricks-neptunia-gin-70cl/12785"
+      }
+    ]
+  },
   "hendricks-orbium-gin": {
     "links": [
       {
@@ -143,12 +152,12 @@
       }
     ]
   },
-  "hendricks-neptunia-gin": {
+  "tanqueray-rangpur-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.giftsinternational.net/products/hendricks-neptunia-gin-70cl/12785",
-        "affiliate_url": "https://www.giftsinternational.net/products/hendricks-neptunia-gin-70cl/12785"
+        "raw_url": "https://drinkland.co.nz/product/tanqueray-rangpur-limes-distilled-gin-700ml/",
+        "affiliate_url": "https://drinkland.co.nz/product/tanqueray-rangpur-limes-distilled-gin-700ml/"
       }
     ]
   }
