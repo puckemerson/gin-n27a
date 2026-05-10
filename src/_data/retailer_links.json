@@ -35,6 +35,15 @@
       }
     ]
   },
+  "drumshanbo-gunpowder-irish-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://whiskypedia.com.ar/producto/drumshanbo-gunpowder-irish-gin-1000ml/",
+        "affiliate_url": "https://whiskypedia.com.ar/producto/drumshanbo-gunpowder-irish-gin-1000ml/"
+      }
+    ]
+  },
   "empress-1908-gin": {
     "links": [
       {
@@ -134,12 +143,12 @@
       }
     ]
   },
-  "drumshanbo-gunpowder-irish-gin": {
+  "hendricks-neptunia-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://whiskypedia.com.ar/producto/drumshanbo-gunpowder-irish-gin-1000ml/",
-        "affiliate_url": "https://whiskypedia.com.ar/producto/drumshanbo-gunpowder-irish-gin-1000ml/"
+        "raw_url": "https://www.giftsinternational.net/products/hendricks-neptunia-gin-70cl/12785",
+        "affiliate_url": "https://www.giftsinternational.net/products/hendricks-neptunia-gin-70cl/12785"
       }
     ]
   }
