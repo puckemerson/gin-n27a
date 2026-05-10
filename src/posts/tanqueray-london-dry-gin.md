@@ -20,7 +20,7 @@ categories:
     weight: 0.15
     score: 78
     rationale: "The finish is clean but somewhat sharp, which is characteristic of the style. It's smooth enough for sipping neat if you prefer drier spirits, though the alcohol presence is noticeable."
-image: "/images/tanqueray-london-dry-gin.jpg"
+image: "/images/tanqueray-london-dry-gin.png"
 image_source: "https://www.thehouseofglunz.com/products/tanqueray-london-dry-gin-750ml.html"
 ---
 
