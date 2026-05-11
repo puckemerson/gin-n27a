@@ -160,5 +160,14 @@
         "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
       }
     ]
+  },
+  "nikka-coffey-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://whiskylibraryshop.co.za/products/nikka-coffey-gin",
+        "affiliate_url": "https://whiskylibraryshop.co.za/products/nikka-coffey-gin"
+      }
+    ]
   }
 }
