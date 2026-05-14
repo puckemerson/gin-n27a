@@ -98,6 +98,15 @@
       }
     ]
   },
+  "nikka-coffey-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://whiskylibraryshop.co.za/products/nikka-coffey-gin",
+        "affiliate_url": "https://whiskylibraryshop.co.za/products/nikka-coffey-gin"
+      }
+    ]
+  },
   "nolets-silver-dry-gin": {
     "links": [
       {
@@ -161,12 +170,12 @@
       }
     ]
   },
-  "nikka-coffey-gin": {
+  "brockmans-premium-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://whiskylibraryshop.co.za/products/nikka-coffey-gin",
-        "affiliate_url": "https://whiskylibraryshop.co.za/products/nikka-coffey-gin"
+        "raw_url": "https://www.everythingwine.ca/brockmans-premium-gin-750-ml",
+        "affiliate_url": "https://www.everythingwine.ca/brockmans-premium-gin-750-ml"
       }
     ]
   }
