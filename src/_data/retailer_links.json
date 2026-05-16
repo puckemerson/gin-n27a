@@ -35,6 +35,15 @@
       }
     ]
   },
+  "brockmans-premium-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.everythingwine.ca/brockmans-premium-gin-750-ml",
+        "affiliate_url": "https://www.everythingwine.ca/brockmans-premium-gin-750-ml"
+      }
+    ]
+  },
   "drumshanbo-gunpowder-irish-gin": {
     "links": [
       {
@@ -170,12 +179,12 @@
       }
     ]
   },
-  "brockmans-premium-gin": {
+  "hendricks-lunar-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.everythingwine.ca/brockmans-premium-gin-750-ml",
-        "affiliate_url": "https://www.everythingwine.ca/brockmans-premium-gin-750-ml"
+        "raw_url": "https://www.champagneking.co.uk/price/11153_hendricks-lunar-gin-70cl-",
+        "affiliate_url": "https://www.champagneking.co.uk/price/11153_hendricks-lunar-gin-70cl-"
       }
     ]
   }
