@@ -80,6 +80,15 @@
       }
     ]
   },
+  "hendricks-lunar-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.champagneking.co.uk/price/11153_hendricks-lunar-gin-70cl-",
+        "affiliate_url": "https://www.champagneking.co.uk/price/11153_hendricks-lunar-gin-70cl-"
+      }
+    ]
+  },
   "hendricks-neptunia-gin": {
     "links": [
       {
@@ -179,12 +188,12 @@
       }
     ]
   },
-  "hendricks-lunar-gin": {
+  "malfy-gin-originale": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.champagneking.co.uk/price/11153_hendricks-lunar-gin-70cl-",
-        "affiliate_url": "https://www.champagneking.co.uk/price/11153_hendricks-lunar-gin-70cl-"
+        "raw_url": "https://winebox.co.nz/product/malfy-gin-originale-41-700ml/",
+        "affiliate_url": "https://winebox.co.nz/product/malfy-gin-originale-41-700ml/"
       }
     ]
   }
