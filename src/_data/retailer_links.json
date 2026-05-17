@@ -107,6 +107,15 @@
       }
     ]
   },
+  "malfy-gin-originale": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://winebox.co.nz/product/malfy-gin-originale-41-700ml/",
+        "affiliate_url": "https://winebox.co.nz/product/malfy-gin-originale-41-700ml/"
+      }
+    ]
+  },
   "monkey-47-schwarzwald-dry-gin": {
     "links": [
       {
@@ -188,12 +197,12 @@
       }
     ]
   },
-  "malfy-gin-originale": {
+  "citadelle-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://winebox.co.nz/product/malfy-gin-originale-41-700ml/",
-        "affiliate_url": "https://winebox.co.nz/product/malfy-gin-originale-41-700ml/"
+        "raw_url": "https://citadellegin.com/en/",
+        "affiliate_url": "https://citadellegin.com/en/"
       }
     ]
   }
