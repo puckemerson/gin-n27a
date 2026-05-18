@@ -44,6 +44,15 @@
       }
     ]
   },
+  "citadelle-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://citadellegin.com/en/",
+        "affiliate_url": "https://citadellegin.com/en/"
+      }
+    ]
+  },
   "drumshanbo-gunpowder-irish-gin": {
     "links": [
       {
@@ -197,12 +206,12 @@
       }
     ]
   },
-  "citadelle-gin": {
+  "haymans-london-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://citadellegin.com/en/",
-        "affiliate_url": "https://citadellegin.com/en/"
+        "raw_url": "https://www.haymansgin.com/product/london-dry-gin/",
+        "affiliate_url": "https://www.haymansgin.com/product/london-dry-gin/"
       }
     ]
   }
