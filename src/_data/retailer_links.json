@@ -89,6 +89,15 @@
       }
     ]
   },
+  "haymans-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.haymansgin.com/product/london-dry-gin/",
+        "affiliate_url": "https://www.haymansgin.com/product/london-dry-gin/"
+      }
+    ]
+  },
   "hendricks-lunar-gin": {
     "links": [
       {
@@ -206,12 +215,12 @@
       }
     ]
   },
-  "haymans-london-dry-gin": {
+  "hendricks-grand-cabaret-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.haymansgin.com/product/london-dry-gin/",
-        "affiliate_url": "https://www.haymansgin.com/product/london-dry-gin/"
+        "raw_url": "https://retailtimes.co.uk/hendricks-debuts-grand-cabaret-gin-limited-edition-gin/",
+        "affiliate_url": "https://retailtimes.co.uk/hendricks-debuts-grand-cabaret-gin-limited-edition-gin/"
       }
     ]
   }
