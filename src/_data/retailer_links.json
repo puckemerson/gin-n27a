@@ -98,6 +98,15 @@
       }
     ]
   },
+  "hendricks-grand-cabaret-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://retailtimes.co.uk/hendricks-debuts-grand-cabaret-gin-limited-edition-gin/",
+        "affiliate_url": "https://retailtimes.co.uk/hendricks-debuts-grand-cabaret-gin-limited-edition-gin/"
+      }
+    ]
+  },
   "hendricks-lunar-gin": {
     "links": [
       {
@@ -215,12 +224,12 @@
       }
     ]
   },
-  "hendricks-grand-cabaret-gin": {
+  "hendricks-midsummer-solstice-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://retailtimes.co.uk/hendricks-debuts-grand-cabaret-gin-limited-edition-gin/",
-        "affiliate_url": "https://retailtimes.co.uk/hendricks-debuts-grand-cabaret-gin-limited-edition-gin/"
+        "raw_url": "https://www.champagneking.co.uk/product/10718/hendricks-midsummer-solstice-gin-70-cl",
+        "affiliate_url": "https://www.champagneking.co.uk/product/10718/hendricks-midsummer-solstice-gin-70-cl"
       }
     ]
   }
