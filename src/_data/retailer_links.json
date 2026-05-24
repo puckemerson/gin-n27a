@@ -116,6 +116,15 @@
       }
     ]
   },
+  "hendricks-midsummer-solstice-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.champagneking.co.uk/product/10718/hendricks-midsummer-solstice-gin-70-cl",
+        "affiliate_url": "https://www.champagneking.co.uk/product/10718/hendricks-midsummer-solstice-gin-70-cl"
+      }
+    ]
+  },
   "hendricks-neptunia-gin": {
     "links": [
       {
@@ -224,12 +233,12 @@
       }
     ]
   },
-  "hendricks-midsummer-solstice-gin": {
+  "st-george-terroir-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.champagneking.co.uk/product/10718/hendricks-midsummer-solstice-gin-70-cl",
-        "affiliate_url": "https://www.champagneking.co.uk/product/10718/hendricks-midsummer-solstice-gin-70-cl"
+        "raw_url": "http://www.astorwines.com/SearchResultsSingle.aspx?search=26361",
+        "affiliate_url": "http://www.astorwines.com/SearchResultsSingle.aspx?search=26361"
       }
     ]
   }
