@@ -206,6 +206,15 @@
       }
     ]
   },
+  "st-george-terroir-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "http://www.astorwines.com/SearchResultsSingle.aspx?search=26361",
+        "affiliate_url": "http://www.astorwines.com/SearchResultsSingle.aspx?search=26361"
+      }
+    ]
+  },
   "tanqueray-no-ten-gin": {
     "links": [
       {
@@ -233,12 +242,12 @@
       }
     ]
   },
-  "st-george-terroir-gin": {
+  "fords-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "http://www.astorwines.com/SearchResultsSingle.aspx?search=26361",
-        "affiliate_url": "http://www.astorwines.com/SearchResultsSingle.aspx?search=26361"
+        "raw_url": "https://theliquorbros.com/products/fords-ginlondon-dry-1l",
+        "affiliate_url": "https://theliquorbros.com/products/fords-ginlondon-dry-1l"
       }
     ]
   }
