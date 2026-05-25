@@ -1,5 +1,54 @@
 [
   {
+    "slug": "gins-built-for-gin-and-tonic-simplicity",
+    "title": "Gins Built for Gin and Tonic Simplicity",
+    "intro_markdown": "The gin and tonic is the great equalizer—a drink that rewards clarity over complexity. These gins don't demand your attention with wild botanicals or theatrical presentation. They're built around crisp citrus, clean juniper, and the kind of straightforward structure that makes a proper G&T sing with nothing more than ice, tonic, and maybe a wedge of lime. If you're tired of gins that require a produce aisle to garnish, these are your bottles.",
+    "outro_markdown": "Each of these gins understands its role: complement the tonic, don't wrestle it. They're proof that sometimes the best tool for the job is the one that gets out of its own way.",
+    "created_at": 1779669024042,
+    "items": [
+      {
+        "post_slug": "tanqueray-london-dry-gin",
+        "rank": 1,
+        "blurb_markdown": "The platonic ideal of a G&T gin. Tanqueray's citrus-forward profile and punchy juniper cut through tonic water with zero fuss, delivering exactly what the serve demands without extras."
+      },
+      {
+        "post_slug": "beefeater-london-dry-gin",
+        "rank": 2,
+        "blurb_markdown": "Lemon peel and Seville orange anchor a bright, uncomplicated profile that pairs with standard tonic as naturally as it does with premium brands. No botanical gymnastics required."
+      },
+      {
+        "post_slug": "sipsmith-london-dry-gin",
+        "rank": 3,
+        "blurb_markdown": "Sipsmith's restrained elegance keeps the focus on clean juniper and citrus brightness—the kind of build that makes a midweek G&T feel considered without being precious."
+      },
+      {
+        "post_slug": "plymouth-gin",
+        "rank": 4,
+        "blurb_markdown": "Softer juniper and a touch of earthiness give Plymouth a rounder, less aggressive G&T profile. It's the choice when you want ease over edge."
+      },
+      {
+        "post_slug": "tanqueray-rangpur-gin",
+        "rank": 5,
+        "blurb_markdown": "The Rangpur lime addition tilts the citrus balance just enough to add interest without wandering into exotic territory. Still a G&T workhorse, just with a subtle twist."
+      },
+      {
+        "post_slug": "gordons-london-dry-gin",
+        "rank": 6,
+        "blurb_markdown": "Gordon's built its reputation on highball service, and that DNA shows. Straightforward juniper and citrus at a price point that makes daily G&T rituals guilt-free."
+      },
+      {
+        "post_slug": "bombay-sapphire-london-dry-gin",
+        "rank": 7,
+        "blurb_markdown": "The ten-botanical recipe sounds complex on paper, but in a G&T it translates to approachable smoothness with enough citrus to keep things lively. Easy drinking without being flat."
+      },
+      {
+        "post_slug": "haymans-london-dry-gin",
+        "rank": 8,
+        "blurb_markdown": "Traditional London Dry structure with a balanced citrus backbone. Hayman's doesn't chase trends—it just delivers a clean, reliable G&T every time."
+      }
+    ]
+  },
+  {
     "slug": "gins-that-showcase-regional-botanicals",
     "title": "Gins That Showcase Regional Botanicals",
     "intro_markdown": "The best gins don't just follow the London Dry template—they root themselves in place. These bottles make geography matter, drawing on local flora to create distinctive profiles that taste unmistakably of where they're made. From Japanese sakura to Scottish heather, these gins prove that terroir applies to spirits just as much as wine.",

@@ -71,6 +71,15 @@
       }
     ]
   },
+  "fords-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://theliquorbros.com/products/fords-ginlondon-dry-1l",
+        "affiliate_url": "https://theliquorbros.com/products/fords-ginlondon-dry-1l"
+      }
+    ]
+  },
   "gin-mare-mediterranean-gin": {
     "links": [
       {
@@ -239,15 +248,6 @@
         "retailer": "generic",
         "raw_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html",
         "affiliate_url": "https://www.thehutliquors.com/the-botanist-islay-dry-gin-750-ml.html"
-      }
-    ]
-  },
-  "fords-gin": {
-    "links": [
-      {
-        "retailer": "generic",
-        "raw_url": "https://theliquorbros.com/products/fords-ginlondon-dry-1l",
-        "affiliate_url": "https://theliquorbros.com/products/fords-ginlondon-dry-1l"
       }
     ]
   }
