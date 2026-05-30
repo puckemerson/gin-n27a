@@ -197,6 +197,15 @@
       }
     ]
   },
+  "roku-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.miami.com.br/suntory-gin-roku-the-japanese-craft-700ml-p14428860",
+        "affiliate_url": "https://www.miami.com.br/suntory-gin-roku-the-japanese-craft-700ml-p14428860"
+      }
+    ]
+  },
   "roku-japanese-gin": {
     "links": [
       {
@@ -251,12 +260,12 @@
       }
     ]
   },
-  "roku-gin": {
+  "whitley-neill-london-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.miami.com.br/suntory-gin-roku-the-japanese-craft-700ml-p14428860",
-        "affiliate_url": "https://www.miami.com.br/suntory-gin-roku-the-japanese-craft-700ml-p14428860"
+        "raw_url": "https://www.tipple.com.my/whitley-neill-original-london-dry-gin-1000ml/",
+        "affiliate_url": "https://www.tipple.com.my/whitley-neill-original-london-dry-gin-1000ml/"
       }
     ]
   }
