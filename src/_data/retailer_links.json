@@ -268,5 +268,14 @@
         "affiliate_url": "https://www.tipple.com.my/whitley-neill-original-london-dry-gin-1000ml/"
       }
     ]
+  },
+  "brokers-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://mcgin.ch/gin/art/london-dry/24/broker-s-premium-london-dry-gin-0.7l/",
+        "affiliate_url": "https://mcgin.ch/gin/art/london-dry/24/broker-s-premium-london-dry-gin-0.7l/"
+      }
+    ]
   }
 }
