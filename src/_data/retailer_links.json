@@ -44,6 +44,15 @@
       }
     ]
   },
+  "brokers-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://mcgin.ch/gin/art/london-dry/24/broker-s-premium-london-dry-gin-0.7l/",
+        "affiliate_url": "https://mcgin.ch/gin/art/london-dry/24/broker-s-premium-london-dry-gin-0.7l/"
+      }
+    ]
+  },
   "citadelle-gin": {
     "links": [
       {
@@ -269,12 +278,12 @@
       }
     ]
   },
-  "brokers-london-dry-gin": {
+  "hendricks-orbium-quininated-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://mcgin.ch/gin/art/london-dry/24/broker-s-premium-london-dry-gin-0.7l/",
-        "affiliate_url": "https://mcgin.ch/gin/art/london-dry/24/broker-s-premium-london-dry-gin-0.7l/"
+        "raw_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816",
+        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816"
       }
     ]
   }
