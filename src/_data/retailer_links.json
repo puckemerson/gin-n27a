@@ -161,6 +161,15 @@
       }
     ]
   },
+  "hendricks-orbium-quininated-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816",
+        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816"
+      }
+    ]
+  },
   "malfy-gin-originale": {
     "links": [
       {
@@ -278,12 +287,12 @@
       }
     ]
   },
-  "hendricks-orbium-quininated-gin": {
+  "bulldog-london-dry-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816",
-        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-orbium-gin-p5816"
+        "raw_url": "https://www.iceland.co.uk/p/bulldog-london-dry-gin-70cl/82551.html",
+        "affiliate_url": "https://www.iceland.co.uk/p/bulldog-london-dry-gin-70cl/82551.html"
       }
     ]
   }
