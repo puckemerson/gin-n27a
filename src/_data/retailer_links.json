@@ -53,6 +53,15 @@
       }
     ]
   },
+  "bulldog-london-dry-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.iceland.co.uk/p/bulldog-london-dry-gin-70cl/82551.html",
+        "affiliate_url": "https://www.iceland.co.uk/p/bulldog-london-dry-gin-70cl/82551.html"
+      }
+    ]
+  },
   "citadelle-gin": {
     "links": [
       {
@@ -287,12 +296,12 @@
       }
     ]
   },
-  "bulldog-london-dry-gin": {
+  "hendricks-amazonia-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.iceland.co.uk/p/bulldog-london-dry-gin-70cl/82551.html",
-        "affiliate_url": "https://www.iceland.co.uk/p/bulldog-london-dry-gin-70cl/82551.html"
+        "raw_url": "https://whitfordmerchants.co.nz/product/hendricks-amazonia-gin-1-ltr/",
+        "affiliate_url": "https://whitfordmerchants.co.nz/product/hendricks-amazonia-gin-1-ltr/"
       }
     ]
   }
