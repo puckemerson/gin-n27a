@@ -125,6 +125,15 @@
       }
     ]
   },
+  "hendricks-amazonia-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://whitfordmerchants.co.nz/product/hendricks-amazonia-gin-1-ltr/",
+        "affiliate_url": "https://whitfordmerchants.co.nz/product/hendricks-amazonia-gin-1-ltr/"
+      }
+    ]
+  },
   "hendricks-grand-cabaret-gin": {
     "links": [
       {
@@ -296,12 +305,12 @@
       }
     ]
   },
-  "hendricks-amazonia-gin": {
+  "hendricks-orbium": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://whitfordmerchants.co.nz/product/hendricks-amazonia-gin-1-ltr/",
-        "affiliate_url": "https://whitfordmerchants.co.nz/product/hendricks-amazonia-gin-1-ltr/"
+        "raw_url": "https://www.giftsinternational.net/products/hendricks-orbium-gin-70cl/10713",
+        "affiliate_url": "https://www.giftsinternational.net/products/hendricks-orbium-gin-70cl/10713"
       }
     ]
   }
