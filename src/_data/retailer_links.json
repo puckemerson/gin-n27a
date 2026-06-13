@@ -170,6 +170,15 @@
       }
     ]
   },
+  "hendricks-orbium": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.giftsinternational.net/products/hendricks-orbium-gin-70cl/10713",
+        "affiliate_url": "https://www.giftsinternational.net/products/hendricks-orbium-gin-70cl/10713"
+      }
+    ]
+  },
   "hendricks-orbium-gin": {
     "links": [
       {
@@ -305,12 +314,12 @@
       }
     ]
   },
-  "hendricks-orbium": {
+  "hendricks-flora-adora": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.giftsinternational.net/products/hendricks-orbium-gin-70cl/10713",
-        "affiliate_url": "https://www.giftsinternational.net/products/hendricks-orbium-gin-70cl/10713"
+        "raw_url": "https://www.thewhiskyworld.com/hendricks-flora-adora-gin-p12689",
+        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-flora-adora-gin-p12689"
       }
     ]
   }
