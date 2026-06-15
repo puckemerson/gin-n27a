@@ -134,6 +134,15 @@
       }
     ]
   },
+  "hendricks-flora-adora": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.thewhiskyworld.com/hendricks-flora-adora-gin-p12689",
+        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-flora-adora-gin-p12689"
+      }
+    ]
+  },
   "hendricks-grand-cabaret-gin": {
     "links": [
       {
@@ -314,12 +323,12 @@
       }
     ]
   },
-  "hendricks-flora-adora": {
+  "larios-12-premium-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.thewhiskyworld.com/hendricks-flora-adora-gin-p12689",
-        "affiliate_url": "https://www.thewhiskyworld.com/hendricks-flora-adora-gin-p12689"
+        "raw_url": "https://www.patiogourmet.com.br/gin-larios-12-premium-mediterranea-garrafa-700ml-/p",
+        "affiliate_url": "https://www.patiogourmet.com.br/gin-larios-12-premium-mediterranea-garrafa-700ml-/p"
       }
     ]
   }
