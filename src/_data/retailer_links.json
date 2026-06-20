@@ -340,5 +340,14 @@
         "affiliate_url": "https://www.tipple.com.my/whitley-neill-original-london-dry-gin-1000ml/"
       }
     ]
+  },
+  "hendricks-quininated-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.trovaprezzi.it/grappe-liquori-aperitivi/prezzi-scheda-prodotto/hendrick_s_gin_orbium_quininated",
+        "affiliate_url": "https://www.trovaprezzi.it/grappe-liquori-aperitivi/prezzi-scheda-prodotto/hendrick_s_gin_orbium_quininated"
+      }
+    ]
   }
 }
