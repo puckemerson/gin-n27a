@@ -215,6 +215,15 @@
       }
     ]
   },
+  "hendricks-quininated-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.trovaprezzi.it/grappe-liquori-aperitivi/prezzi-scheda-prodotto/hendrick_s_gin_orbium_quininated",
+        "affiliate_url": "https://www.trovaprezzi.it/grappe-liquori-aperitivi/prezzi-scheda-prodotto/hendrick_s_gin_orbium_quininated"
+      }
+    ]
+  },
   "larios-12-premium-gin": {
     "links": [
       {
@@ -341,12 +350,12 @@
       }
     ]
   },
-  "hendricks-quininated-gin": {
+  "tanqueray-sevilla-orange-gin": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.trovaprezzi.it/grappe-liquori-aperitivi/prezzi-scheda-prodotto/hendrick_s_gin_orbium_quininated",
-        "affiliate_url": "https://www.trovaprezzi.it/grappe-liquori-aperitivi/prezzi-scheda-prodotto/hendrick_s_gin_orbium_quininated"
+        "raw_url": "https://www.iceland.co.uk/p/tanqueray-flor-de-sevilla-orange-flavoured-distilled-gin-70cl/82490.html",
+        "affiliate_url": "https://www.iceland.co.uk/p/tanqueray-flor-de-sevilla-orange-flavoured-distilled-gin-70cl/82490.html"
       }
     ]
   }
