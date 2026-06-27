@@ -332,6 +332,15 @@
       }
     ]
   },
+  "tanqueray-sevilla-orange-gin": {
+    "links": [
+      {
+        "retailer": "generic",
+        "raw_url": "https://www.iceland.co.uk/p/tanqueray-flor-de-sevilla-orange-flavoured-distilled-gin-70cl/82490.html",
+        "affiliate_url": "https://www.iceland.co.uk/p/tanqueray-flor-de-sevilla-orange-flavoured-distilled-gin-70cl/82490.html"
+      }
+    ]
+  },
   "the-botanist-islay-dry-gin": {
     "links": [
       {
@@ -350,12 +359,12 @@
       }
     ]
   },
-  "tanqueray-sevilla-orange-gin": {
+  "hendricks-orbium-quininated": {
     "links": [
       {
         "retailer": "generic",
-        "raw_url": "https://www.iceland.co.uk/p/tanqueray-flor-de-sevilla-orange-flavoured-distilled-gin-70cl/82490.html",
-        "affiliate_url": "https://www.iceland.co.uk/p/tanqueray-flor-de-sevilla-orange-flavoured-distilled-gin-70cl/82490.html"
+        "raw_url": "https://mydrinx.shop/products/hendricks-orbium-quininated-gin-limited-release-43-4-vol-0-7l",
+        "affiliate_url": "https://mydrinx.shop/products/hendricks-orbium-quininated-gin-limited-release-43-4-vol-0-7l"
       }
     ]
   }
